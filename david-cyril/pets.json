@@ -1,8 +1,8 @@
 {
     "1234567890@s.whatsapp.net": [
-        { "name": "Cat", "level": 5, "strength": 10 }
+        { "name": "titan", "level": 5, "strength": 10 }
     ],
     "0987654321@s.whatsapp.net": [
-        { "name": "Dog", "level": 6, "strength": 25 }
+        { "name": "kaiju", "level": 6, "strength": 25 }
     ]
 }
