@@ -1,6 +1,6 @@
 {
-  "name": "Queen Anita V4",
-  "description": "A WhatsApp Bot Created By David Cyril",
+  "name": "krugar V4",
+  "description": "A WhatsApp Bot Created By krugar,mob ties and muzan",
   "logo": "https://telegra.ph/file/f6230a0cb5b118fa01561.jpg",
   "keywords": ["bot", "WhatsApp", "JavaScript"],
   "success_url": "/",
@@ -12,7 +12,7 @@
     },
     "PREFIX": {
       "description": "Enter your desired prefix for bot. You can set `all | . | .!*`",
-      "value": "."
+      "value": "-"
     },
     "AUTO_REACT": {
       "description": "Set true to auto-react to messages.",
